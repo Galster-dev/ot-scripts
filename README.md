@@ -1,2 +1,2 @@
 # ot-scripts
-obv ot scipts
+obv ot scripts
